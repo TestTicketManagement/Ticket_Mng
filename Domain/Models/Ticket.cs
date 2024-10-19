@@ -8,11 +8,11 @@ namespace Domain.Models
 {
     public class Ticket
     {
-        public int id {  get; set; }
+        public int Id {  get; set; }
 
-        public string description { get; set; }
+        public string Description { get; set; }
 
-        public TicketStatus status { get; set; }
+        public TicketStatus Status { get; set; }
 
         public DateTime CreationDate { get; set; }
     }
