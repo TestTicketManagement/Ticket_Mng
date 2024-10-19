@@ -1,4 +1,5 @@
 ﻿using Infrastructure.Data;
+using Infrastructure.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -22,6 +23,8 @@ namespace Infrastructure.Dependency_Injection
                       .AllowAnyMethod()
                       .AllowAnyHeader();
             }));
+
+            services.AddScoped<ITicket,TicketRepository>();
 
 
             return services;

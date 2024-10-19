@@ -14,12 +14,12 @@ namespace Domain.Models
 
         public TicketStatus Status { get; set; }
 
-        public DateTime CreationDate { get; set; }
+        public DateTime CreationDate { get; set; } = DateTime.Now;
     }
 
     public enum TicketStatus
     {
-        Open,
-        Closed
+        Open = 0,
+        Closed = 1
     }
 }
