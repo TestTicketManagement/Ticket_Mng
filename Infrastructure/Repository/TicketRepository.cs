@@ -50,7 +50,7 @@ namespace Infrastructure.Repository
                 Id = ticket.Id,
                 Description = ticket.Description,
                 Status = ticket.Status.ToString(),  
-                CreationDate = ticket.CreationDate
+                CreationDate = ticket.CreationDate.ToString("MMM-dd-yyyy")
             };
 
             return ticketDto!;
@@ -65,7 +65,7 @@ namespace Infrastructure.Repository
                 Id = ticket.Id,
                 Description = ticket.Description,
                 Status = ticket.Status.ToString(),  
-                CreationDate = ticket.CreationDate
+                CreationDate = ticket.CreationDate.ToString("MMM-dd-yyyy")
             }).ToList();
 
             return ticketDtos;

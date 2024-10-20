@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\domain\\dto\\addticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\addticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|solutionrelative:domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE04D0C-792F-4F8B-9BFB-24F07C764989}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\infrastructure\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CE04D0C-792F-4F8B-9BFB-24F07C764989}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\domain\\dto\\baseticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\baseticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\domain\\dto\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\domain\\dto\\updateticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\updateticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,8 +11,32 @@
       "RelativeMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\getticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\domain\\dto\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\domain\\dto\\addticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\addticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\domain\\dto\\baseticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\baseticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB59B6F4-76FB-4483-B7D0-3BD4E71F55A1}|Ticket_Mng_API\\Ticket_Mng_API.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\ticket_mng_api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB59B6F4-76FB-4483-B7D0-3BD4E71F55A1}|Ticket_Mng_API\\Ticket_Mng_API.csproj|solutionrelative:ticket_mng_api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE04D0C-792F-4F8B-9BFB-24F07C764989}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\infrastructure\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE04D0C-792F-4F8B-9BFB-24F07C764989}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB59B6F4-76FB-4483-B7D0-3BD4E71F55A1}|Ticket_Mng_API\\Ticket_Mng_API.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\ticket_mng_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB59B6F4-76FB-4483-B7D0-3BD4E71F55A1}|Ticket_Mng_API\\Ticket_Mng_API.csproj|solutionrelative:ticket_mng_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E75351-4BA0-43F3-83A6-9B5A34F98114}|Domain\\Domain.csproj|solutionrelative:domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CE04D0C-792F-4F8B-9BFB-24F07C764989}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ts\\ticket_mng\\infrastructure\\dependency injection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,39 +82,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateTicketDTO.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\UpdateTicketDTO.cs",
-              "RelativeDocumentMoniker": "Domain\\DTO\\UpdateTicketDTO.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\UpdateTicketDTO.cs",
-              "RelativeToolTip": "Domain\\DTO\\UpdateTicketDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T17:28:36.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "GeneralResponse.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\GeneralResponse.cs",
               "RelativeDocumentMoniker": "Domain\\DTO\\GeneralResponse.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\GeneralResponse.cs",
               "RelativeToolTip": "Domain\\DTO\\GeneralResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T17:32:02.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BaseTicketDTO.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\BaseTicketDTO.cs",
               "RelativeDocumentMoniker": "Domain\\DTO\\BaseTicketDTO.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\BaseTicketDTO.cs",
               "RelativeToolTip": "Domain\\DTO\\BaseTicketDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T17:27:14.533Z",
               "EditorCaption": ""
@@ -118,45 +109,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\Models\\Ticket.cs",
-              "RelativeToolTip": "Domain\\Models\\Ticket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T16:00:57.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "GetTicketDTO.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\GetTicketDTO.cs",
               "RelativeDocumentMoniker": "Domain\\DTO\\GetTicketDTO.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\GetTicketDTO.cs",
               "RelativeToolTip": "Domain\\DTO\\GetTicketDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T17:35:43.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TicketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Infrastructure\\Repository\\TicketRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\TicketRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Infrastructure\\Repository\\TicketRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\TicketRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T17:37:20.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddTicketDTO.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\AddTicketDTO.cs",
               "RelativeDocumentMoniker": "Domain\\DTO\\AddTicketDTO.cs",
@@ -169,20 +134,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "TicketController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Ticket_Mng_API\\Controllers\\TicketController.cs",
               "RelativeDocumentMoniker": "Ticket_Mng_API\\Controllers\\TicketController.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Ticket_Mng_API\\Controllers\\TicketController.cs",
               "RelativeToolTip": "Ticket_Mng_API\\Controllers\\TicketController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T20:19:09.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "UpdateTicketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\UpdateTicketDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\UpdateTicketDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\DTO\\UpdateTicketDTO.cs",
+              "RelativeToolTip": "Domain\\DTO\\UpdateTicketDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:28:36.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Infrastructure\\Repository\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Infrastructure\\Repository\\TicketRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\TicketRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:37:20.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\Models\\Ticket.cs",
+              "RelativeToolTip": "Domain\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:00:57.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Ticket_Mng_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ticket_Mng_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Ticket_Mng_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ticket_Mng_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T23:12:16.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ITicket.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Infrastructure\\Repository\\ITicket.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\ITicket.cs",
@@ -195,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Infrastructure\\Dependency Injection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Dependency Injection\\ServiceContainer.cs",
@@ -208,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Ticket_Mng_API\\appsettings.json",
               "RelativeDocumentMoniker": "Ticket_Mng_API\\appsettings.json",
@@ -221,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Infrastructure",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
@@ -234,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Ticket_Mng_API\\Program.cs",
               "RelativeDocumentMoniker": "Ticket_Mng_API\\Program.cs",
@@ -247,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Domain",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\TS\\Ticket_Mng\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
