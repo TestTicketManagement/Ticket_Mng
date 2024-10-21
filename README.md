@@ -7,7 +7,7 @@ Before any thing make sure you have :
 - dotnetCore 8
 - microsoftSQL sever 
 - microsoft entity framwork
-- texteditor like like visual studio
+- texteditor like visual studio
 
 # Database
 - make sure the databae you specified in the CONNECTION variable of your appsettings.json exists
