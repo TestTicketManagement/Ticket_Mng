@@ -5,7 +5,7 @@ This is a ticket management API built using .NET Core 8 and Entity Framework 8.
 Before any thing make sure you have :
 
 - dotnetCore 8
-- microsoftSQL sever you can downloadit from here
+- microsoftSQL sever 
 - microsoft entity framwork
 - texteditor like like visual studio
 
