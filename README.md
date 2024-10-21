@@ -13,7 +13,7 @@ Before any thing make sure you have :
 - make sure the databae you specified in the CONNECTION variable of your appsettings.json exists
 - open the terminal (windows command prumpt or powershell) and run the migrations to create the tables of the database
 
-dotnet ef database update 
+`dotnet ef database update` 
 
 # Run
 - open the project in visual studio or vscode and run it
